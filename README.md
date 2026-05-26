@@ -17,7 +17,6 @@ The objective was to transform raw sales data into actionable business insights 
 
 ## Dashboard Preview
 
-![Dashboard Preview]
 <img width="1339" height="634" alt="Image" src="https://github.com/user-attachments/assets/2f04a4f1-b03a-4ac2-8118-0b3b75ae4e6b" />
 ---
 
